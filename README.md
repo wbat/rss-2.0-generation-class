@@ -14,3 +14,4 @@ Coming Soon
 ### License
 
 The RSS 2.0 Generation Class is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
